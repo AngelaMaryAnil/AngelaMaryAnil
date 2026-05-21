@@ -94,9 +94,8 @@
 </p>
 
 ---
-## 🔝 Top Contributed Repositories
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=AngelaMaryAnil&limit=5&theme=dracula&combine_all_yearly_contributions=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AngelaMaryAnil&theme=dracula&no-frame=true&no-bg=true&margin-w=15" />
 </p>
-
