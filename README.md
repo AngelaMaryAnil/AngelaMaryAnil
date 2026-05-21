@@ -1,3 +1,10 @@
+</p><br clear="both">
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Nunito:wght@700+Code&size=40&pause=1000&color=#964B00&center=true&vCenter=true&width=700&lines=Hello+there!+I+am+Angela!!;" />
+
+
+
 #  About Me:
 🎯 I’m currently working on improving my programming skills and understanding core concepts in Computer Science through hands-on projects.<br><br>🤝 I’m looking to collaborate on innovative tech projects, open-source contributions, and academic research that help solve real-world problems.<br><br>🙏 I’m looking for help with building impactful projects that can boost my portfolio and enhance my career prospects in the tech industry.<br><br>🌱 I’m currently learning web development, data structures & algorithms, and exploring areas like AI, ML, and software development.<br><br>💬 Ask me about my experience as a student in Computer Science, project ideas for beginners, or anything about learning tech from scratch!<br><br>⚡ Fun fact: I love turning creative ideas into code and believe that small projects can make a big impact!
 
@@ -51,6 +58,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="50"/>
 
 </p>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abner-Anil&radius=16&theme=redical&area=true&order=5&custom_title=My%20This%20month%20activity%20Graph" height="300" alt="activity-graph graph"  />
+</div>
+
+###
 
 ---
 # 📊 GitHub Stats:
