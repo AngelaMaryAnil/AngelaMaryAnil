@@ -94,14 +94,14 @@
 </p>
 
 ---
+## 🔝 Top Contributed Repositories
 
-## 🔝 Top Contributed Repositories:
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=AngelaMaryAnil&limit=5&theme=radical&combine_all_yearly_contributions=true" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=AngelaMaryAnil&limit=5&theme=dracula&combine_all_yearly_contributions=true" />
 </p>
 
----
+## 👀 Profile Views
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=AngelaMaryAnil&icon=5&color=12" />
+  <img src="https://komarev.com/ghpvc/?username=AngelaMaryAnil&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
 </p>
