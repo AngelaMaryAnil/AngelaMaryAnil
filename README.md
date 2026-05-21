@@ -62,9 +62,11 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AngelaMaryAnil&radius=16&theme=radical&area=true&order=5&custom_title=My%20This%20Month%20Activity%20Graph" height="300" alt="activity-graph graph"/>
-</div>
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AngelaMaryAnil&theme=dracula&hide_border=true&area=true" />
+</p>
 
 ###
 
@@ -94,8 +96,8 @@
 </p>
 
 ---
-## 📈 Contribution Graph
+## 🔝 Top Contributed Repositories
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AngelaMaryAnil&theme=dracula&hide_border=true&area=true" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=AngelaMaryAnil&limit=5&theme=dracula&combine_all_yearly_contributions=true" />
 </p>
