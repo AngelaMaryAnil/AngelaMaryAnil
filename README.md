@@ -63,7 +63,7 @@
 ###
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AngelaMaryAnil&theme=github-dark&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AngelaMaryAnil&theme=nightowl&hide_border=true&area=true" />
 </p>
 
 ###
@@ -83,7 +83,7 @@
 [![](https://visitcount.itsvg.in/api?id=AngelaMaryAnil&icon=0&color=0)](https://visitcount.itsvg.in)
 ## 🏆 GitHub Trophies:
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AngelaMaryAnil&theme=onestar&no-frame=false&no-bg=false&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AngelaMaryAnil&theme=dracula&no-frame=true&no-bg=true&margin-w=15" />
 </p>
 
 ---
