@@ -69,15 +69,20 @@
 ###
 
 ---
-## 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AngelaMaryAnil&theme=radical&hide_border=false&include_all_commits=true&count_private=true" />
-  
-  <img src="https://nirzak-streak-stats.vercel.app/?user=AngelaMaryAnil&theme=radical&hide_border=false" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelaMaryAnil&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-</p>
+<h2 align="left">Github Stat</h2>
 
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AngelaMaryAnil
+&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="250" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AngelaMaryAnil&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=dracula&hide_border=true&order=2" height="250" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=AngelaMaryAnil&locale=en&mode=weekly&theme=dracula&hide_border=true&border_radius=5&order=3" height="200" alt="streak graph"  />
+</div>
+
+###
 ---
 [![](https://visitcount.itsvg.in/api?id=AngelaMaryAnil&icon=0&color=0)](https://visitcount.itsvg.in)
 ## 🏆 GitHub Trophies:
