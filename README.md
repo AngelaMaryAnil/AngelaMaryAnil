@@ -92,11 +92,11 @@
 
 ## 🔝 Top Contributed Repositories:
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=AngelaMaryAnil&limit=5&theme=city_lights&combine_all_yearly_contributions=true" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=AngelaMaryAnil&limit=5&theme=radical&combine_all_yearly_contributions=true" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=AngelaMaryAnil&icon=0&color=FF0000"/>
+  <img src="https://visitcount.itsvg.in/api?id=AngelaMaryAnil&icon=5&color=12" />
 </p>
