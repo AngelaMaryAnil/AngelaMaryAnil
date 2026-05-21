@@ -1,7 +1,8 @@
 </p><br clear="both">
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Nunito:wght@700+Code&size=40&pause=1000&color=#964B00&center=true&vCenter=true&width=700&lines=Hello+there!+I+am+Angela!!;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Nunito:wght@700+Code&size=40&pause=1000&color=00FFAB&center=true&vCenter=true&width=700&lines=Hello+there!+I+am+Angela!!;" />
+
 
 
 
