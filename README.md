@@ -63,7 +63,7 @@
 ###
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AngelaMaryAnil&theme=dracula&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AngelaMaryAnil&theme=github-dark&hide_border=true&area=true" />
 </p>
 
 ###
