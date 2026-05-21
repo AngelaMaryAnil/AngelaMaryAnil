@@ -1,7 +1,7 @@
 </p><br clear="both">
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Nunito:wght@700+Code&size=40&pause=1000&color=A52A2A&center=true&vCenter=true&width=700&lines=Hello+there!+I+am+Angela!!;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Nunito:wght@700+Code&size=40&pause=1000&color=87CEEB&center=true&vCenter=true&width=700&lines=Hello+there!+I+am+Angela!!;" />
 
 
 
@@ -63,8 +63,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AngelaMaryAnil
-&radius=16&theme=redical&area=true&order=5&custom_title=My%20This%20month%20activity%20Graph" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AngelaMaryAnil&radius=16&theme=radical&area=true&order=5&custom_title=My%20This%20Month%20Activity%20Graph" height="300" alt="activity-graph graph"/>
 </div>
 
 ###
