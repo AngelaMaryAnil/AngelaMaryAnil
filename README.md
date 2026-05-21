@@ -68,22 +68,17 @@
 
 ###
 
----
-<h2 align="left">Github Stat</h2>
-
-###
-
-<br clear="both">
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AngelaMaryAnil&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="250" alt="stats graph"  />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AngelaMaryAnil&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=dracula&hide_border=true" height="250" alt="languages graph"  />
+<img src="https://github-readme-stats.vercel.app/api?username=AngelaMaryAnil&show_icons=true&theme=dracula&hide_border=true&count_private=true" height="180"/>
 
-  <img src="https://streak-stats.demolab.com?user=AngelaMaryAnil&locale=en&mode=weekly&theme=dracula&hide_border=true&border_radius=5" height="200" alt="streak graph"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelaMaryAnil&layout=compact&theme=dracula&hide_border=true" height="180"/>
+
+<img src="https://streak-stats.demolab.com?user=AngelaMaryAnil&theme=dracula&hide_border=true" height="180"/>
+
 </div>
-
----
 
 [![](https://visitcount.itsvg.in/api?id=AngelaMaryAnil&icon=0&color=0)](https://visitcount.itsvg.in)
 ## 🏆 GitHub Trophies:
