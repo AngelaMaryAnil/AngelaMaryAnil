@@ -14,5 +14,27 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=AngelaMaryAnil&icon=0&color=0)](https://visitcount.itsvg.in)
+## 🏆 GitHub Trophies:
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=antony-jacob817&theme=onestar&no-frame=false&no-bg=false&margin-w=4" />
+</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+## ✍️ Random Dev Quote:
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</p>
+
+---
+
+## 🔝 Top Contributed Repositories:
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=antony-jacob817&limit=5&theme=city_lights&combine_all_yearly_contributions=true" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=antony-jacob817&icon=0&color=FF0000"/>
+</p>
