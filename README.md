@@ -72,18 +72,18 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AngelaMaryAnil&show_icons=true&theme=dracula&hide_border=true&count_private=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=AngelaMaryAnil&show_icons=true&theme=nightowl&hide_border=true&count_private=true" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelaMaryAnil&layout=compact&theme=dracula&hide_border=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelaMaryAnil&layout=compact&theme=nightowl&hide_border=true" height="180"/>
 
-<img src="https://streak-stats.demolab.com?user=AngelaMaryAnil&theme=dracula&hide_border=true" height="180"/>
+<img src="https://streak-stats.demolab.com?user=AngelaMaryAnil&theme=nightowl&hide_border=true" height="180"/>
 
 </div>
 
 [![](https://visitcount.itsvg.in/api?id=AngelaMaryAnil&icon=0&color=0)](https://visitcount.itsvg.in)
 ## 🏆 GitHub Trophies:
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AngelaMaryAnil&theme=dracula&no-frame=true&no-bg=true&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AngelaMaryAnil&theme=nightowl&no-frame=true&no-bg=true&margin-w=15" />
 </p>
 
 ---
